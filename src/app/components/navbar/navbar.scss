@@ -1,0 +1,14 @@
+.collapsible { display:none; }
+.inbutton { background-color:blue; }
+.greenbtn {
+  background-color: #4ddd30;
+}
+.greybtn {
+  background-color: #c0c1bf;
+}
+
+.slider-div {
+  height: 500px;
+}
+#SystemMessage { position: absolute; top: 5px; right: 5px; background-color: DarkSlateBlue; color: #ffffff; right: 5px; display:none; }
+#SpeedMessage { position: absolute; top: 5px; right: 5px; background-color: White; color: #ff0000; right: 400; display:none; }
